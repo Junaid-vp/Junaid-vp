@@ -1,52 +1,57 @@
 <a href="https://github.com/Junaid-vp">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Junaid%20VP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20actually%20work%20in%20production&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1a1040,100:0d0d1a&height=200&section=header&text=Mohammed%20Junaid%20VP&fontSize=52&fontColor=a78bfa&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%94%20Building%20Production%20Systems%20That%20Scale&descAlignY=68&descSize=15&descColor=7c3aed&stroke=6d28d9&strokeWidth=2"/>
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+AWS;Built+2+Live+SaaS+Products+in+Production;WebRTC+%7C+AI+%7C+Docker+%7C+PostgreSQL+%7C+Redis;Currently%3A+Intern+%40+Bridgeon+Solutions%2C+Kerala" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Junaid-vp&style=flat-square&color=70a5fd&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Junaid-vp?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/Junaid-vp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-junaid-vp)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohammed-Junaid/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+2+Live+SaaS+Products+in+Production+on+AWS;%F0%9F%94%A5+Built+SkillForge+AI+Solo+in+5+Weeks+Flat;%F0%9F%9B%A1%EF%B8%8F+WebRTC+%7C+AI+%7C+Docker+%7C+PostgreSQL+%7C+Redis;%F0%9F%9A%80+Full+AWS+Infra%3A+EC2+%2B+RDS+%2B+CloudFront+%2B+S3;%F0%9F%8C%B4+Kerala%2C+India+%E2%80%94+Open+to+Work" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Junaid-vp&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Junaid-vp?style=for-the-badge&color=6d28d9&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/Junaid-vp)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-junaid-vp)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohammed-Junaid/)
+
+</div>
+
+<br/>
+
 ---
 
-## 🧑‍💻 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## `$ whoami`
 
-```javascript
-const junaid = {
+```typescript
+const junaid: Developer = {
   name:     "Mohammed Junaid VP",
-  location: "Calicut, Kerala, India 🌴",
+  location: "Calicut → Anywhere Remote 🌍",
   role:     "Full Stack Developer",
   degree:   "BCA @ Manipal University (2025–2028)",
 
-  stack: [
-    "React", "Node.js", "TypeScript",
-    "PostgreSQL", "Redis", "Docker", "AWS"
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend:   ["Node.js", "Express", "Socket.io", "WebRTC"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    devops:    ["AWS", "Docker", "Nginx", "GitHub Actions"],
+    ai:        ["Groq Llama 3.3 70B", "Google MediaPipe"],
+  },
+
+  shipped: [
+    "SkillForge AI — Full SaaS, solo, 5 weeks 🔥",
+    "ScrapLink — Live Kerala marketplace 🌴",
   ],
 
-  currentlyBuilding: [
-    "ScrapLink — Live in production 🚀",
-    "Scaling AWS infrastructure",
-  ],
-
-  currentlyLearning: [
-    "Microservices Architecture",
-    "System Design",
-    "React Native",
-  ],
-
-  funFact: "Built a full SaaS platform solo in 5 weeks 🔥",
-
-  motto: () => "Ship fast. Learn faster. Build things that work.",
+  status:  "⚡ Open to Work — Full Stack / Backend Roles",
+  motto:   "Ship fast. Learn faster. Build things that work.",
 };
 ```
 
@@ -54,55 +59,132 @@ const junaid = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I've Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ SkillForge AI
+**[skillforge-ai.com](https://skillforge-ai.com)**
+
+AI-powered SaaS interview platform built **solo in 5 weeks**.
+
+- 🤖 Groq **Llama 3.3 70B** live interview evaluation
+- 📹 Dual **WebRTC** peer connections
+- 🧠 3-layer **MediaPipe** proctoring system
+- 💻 **Monaco Editor** + Judge0 code execution
+- 💳 **Stripe** subscription billing
+- ☁️ Full **AWS** stack: EC2 · RDS · ElastiCache · S3 · CloudFront
+
+`React` `Node.js` `TypeScript` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ ScrapLink
+**[scraplink.in](https://scraplink.in)**
+
+Live scrap marketplace for Kerala — real users, real pickups.
+
+- 📱 **WhatsApp OTP** authentication via MSG91
+- 📍 **GPS-based** pickup scheduling with radius routing
+- 💰 Dual-tier **dynamic pricing** engine
+- 🗺️ **Google Maps** integration
+- 💳 **Razorpay** payment gateway
+- 👥 4 user roles: Admin · Collector · Shop · Home
+
+`React` `Node.js` `TypeScript` `PostgreSQL` `Redis` `Google Maps` `AWS Mumbai`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Feather Mound
+**[feather-mound.vercel.app](https://feather-mound.vercel.app)**
+
+Full-stack e-commerce platform with clean MVC architecture.
+
+- 🔐 JWT auth + Bcrypt security
+- 💳 Razorpay payments
+- 🛍️ Full cart, order, and inventory management
+- ☁️ AWS + Vercel deployment
+
+`React` `Node.js` `MongoDB` `Express.js` `JWT` `Razorpay`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 By the Numbers
+
+| Metric | Value |
+|---|---|
+| 🚀 Production Apps | **2 Live SaaS** |
+| ☁️ AWS Services Used | **7+** |
+| ⚡ Fastest Build | **5 weeks solo** |
+| 🌍 Users Served | **Real production traffic** |
+| 💳 Payment Gateways | **Stripe + Razorpay** |
+| 🐳 DevOps | **Docker + CI/CD + Nginx** |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Arsenal
+
+<div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**AI & Tools**
+**AI & Messaging**
 
-![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -111,31 +193,29 @@ const junaid = {
 <div align="center">
 
 <a href="https://github.com/Junaid-vp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junaid-vp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Junaid-vp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=12&rank_icon=github"/>
 </a>
 <a href="https://github.com/Junaid-vp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-vp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-vp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12"/>
 </a>
 
 </div>
 
----
-
-## 🔥 Streak Stats
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Junaid-vp&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Junaid-vp&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junaid-vp&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junaid-vp&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=38bdae&area=true&hide_border=true&area_color=1a1040"/>
 
 </div>
 
@@ -145,62 +225,38 @@ const junaid = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Junaid-vp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Junaid-vp&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-<details>
-<summary><b>🏢 Full Stack Developer Intern — Bridgeon Solutions | Aug 2025 – Present | Calicut, Kerala</b></summary>
+<table>
+<tr>
+<td>
 
-<br/>
+**🏢 Full Stack Developer Intern**
+**Bridgeon Solutions** · Calicut, Kerala
+**Aug 2025 – Present**
 
-> `React.js` `Node.js` `Express.js` `PostgreSQL` `MongoDB` `Socket.io` `WebRTC` `Docker` `AWS` `Redis` `RabbitMQ` `GitHub Actions`
+</td>
+<td>
 
-- Developed and deployed full-stack web applications across multiple **production projects** serving real users
-- Built and integrated **RESTful APIs** with JWT authentication, Bcrypt hashing, input validation, and error handling
-- Implemented **real-time features** using Socket.io and WebRTC for live communication and data synchronization
-- Worked with both **relational and non-relational databases** — PostgreSQL with Prisma ORM and MongoDB with Mongoose
-- **Containerized** applications using Docker and deployed on AWS EC2 with Nginx reverse proxy and SSL
-- Built and maintained **CI/CD pipelines** using GitHub Actions for automated testing and zero-downtime deployments
-- Integrated **third-party services** including Stripe, Razorpay, Cloudinary, and Nodemailer
+`React.js` `Node.js` `Express.js` `PostgreSQL` `MongoDB` `Socket.io` `WebRTC` `Docker` `AWS` `Redis` `RabbitMQ` `GitHub Actions`
 
-</details>
+- Deployed full-stack applications to **production** serving real users across multiple projects
+- Built **RESTful APIs** with JWT auth, Bcrypt, input validation, and structured error handling
+- Implemented **real-time features** — Socket.io, WebRTC for live communication and data sync
+- Worked across **SQL + NoSQL** — PostgreSQL with Prisma ORM, MongoDB with Mongoose
+- **Dockerized** and deployed on AWS EC2 with Nginx reverse proxy + SSL termination
+- Maintained **CI/CD pipelines** via GitHub Actions for zero-downtime automated deployments
+- Integrated **Stripe, Razorpay, Cloudinary, Nodemailer** in production
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| [**⚡ SkillForge AI**](https://skillforge-ai.com) | React · Node.js · TypeScript · PostgreSQL · Redis · RabbitMQ · WebRTC · AWS | AI-powered SaaS interview platform · Dual WebRTC peer connections · Groq Llama 3.3 70B evaluation · 3-layer MediaPipe proctoring · Monaco Editor + Judge0 · Stripe subscription · Built solo in 5 weeks |
-| [**♻️ ScrapLink**](https://scraplink.in) | React · Node.js · TypeScript · PostgreSQL · Redis · MSG91 · Razorpay · Google Maps · AWS | Live Kerala scrap marketplace · Dual-tier pricing system · WhatsApp OTP auth · GPS pickup scheduling · Radius-based routing · 4 user roles · Full AWS Mumbai deployment |
-| [**🛒 Feather Mound**](https://feather-mound.vercel.app) | React · Node.js · MongoDB · Express.js · JWT · Razorpay | Full-stack e-commerce platform · RESTful APIs · Razorpay payments · JWT auth · MVC architecture · AWS + Vercel deployment |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|---|---|---|
-| 🚀 | **2 Live Production SaaS Products** | SkillForge AI + ScrapLink — both deployed on AWS |
-| ⚡ | **Built SkillForge AI Solo in 5 Weeks** | Full SaaS with AI, WebRTC, payments, AWS infra |
-| 🌴 | **First Freelance Client Project** | ScrapLink — live production app for Kerala market |
-| 🔥 | **Full AWS Infrastructure** | EC2 + RDS + ElastiCache + ECR + CloudFront + S3 |
-| 🤖 | **AI Integration** | Groq Llama 3.3 70B + Google MediaPipe in production |
-| 💳 | **Payment Gateways** | Stripe + Razorpay both integrated in live projects |
-| 🐳 | **DevOps** | Docker + Nginx + GitHub Actions CI/CD on AWS |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -208,37 +264,48 @@ const junaid = {
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| 🎓 Bachelor of Computer Applications | Manipal University Jaipur | Aug 2025 – May 2028 | Ongoing |
-| 📚 Higher Secondary — Bio Science | Chandan Brothers HSS, Kerala | Jun 2023 – Apr 2025 | Completed |
+| Degree | Institution | Period |
+|---|---|---|
+| 🎓 Bachelor of Computer Applications | Manipal University Jaipur | 2025 – 2028 |
+| 📚 Higher Secondary — Bio Science | Chandan Brothers HSS, Kerala | 2023 – 2025 |
 
 </div>
 
 ---
 
-## 🧱 Currently Learning
+## ⚡ Currently
 
 ```
-🏗️  Microservices Architecture  →  Service mesh, API Gateway, inter-service communication
-📱  React Native               →  Cross-platform mobile development
-🗺️  System Design              →  Scalability, CAP theorem, distributed systems
-☁️  AWS Advanced               →  Lambda, SQS, CloudFormation, Cost optimization
-🔐  Security                   →  OAuth 2.0, OWASP, penetration testing basics
+🔍  Open to Work    →  Full Stack / Backend / Node.js roles — Remote or On-site
+🏗️  Building        →  Scaling ScrapLink infrastructure on AWS
+📚  Learning        →  Microservices · System Design · React Native · AWS Advanced
+🎯  Goal            →  Contribute to a team building something meaningful at scale
 ```
 
 ---
 
 <div align="center">
 
-**💬 Let's connect and build something amazing!**
+### 💬 Let's Build Something
 
-[![Email](https://img.shields.io/badge/Email-mohammed.junaid.software%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammed.junaid.software@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Junaid%20VP-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-junaid-vp)
-[![GitHub](https://img.shields.io/badge/GitHub-Junaid--vp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Junaid-vp)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Mohammed--Junaid-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohammed-Junaid/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C4622D?style=flat-square&logo=safari&logoColor=white)](https://skillforge-ai.com)
+**I'm actively looking for my next role. Let's connect.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-mohammed.junaid.software%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.junaid.software@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Junaid%20VP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-junaid-vp)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Junaid--vp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Junaid-vp)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mohammed--Junaid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohammed-Junaid/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Live%20Work-skillforge--ai.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://skillforge-ai.com)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d1a,50:1a1040,100:0a0a0f&height=140&section=footer&animation=fadeIn&fontColor=a78bfa&fontSize=16&text=Available%20for%20opportunities%20%E2%80%94%20Let%27s%20talk&fontAlignY=55&descSize=0"/>
